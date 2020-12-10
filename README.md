@@ -1,4 +1,4 @@
 # Excel-Data-Analystics-and-Visualization
-This folder contains different excel data analysis and visualization projects I did while learning
-BikestoreData.xls - This is the data set from edx course "Introduction to Data Analysis and Visualization" and completed all the lab exercises
+This folder contains excel data analysis and visualization I did while learning "Introduction to Data Analysis and Visualization" an edX course.
+BikestoreData.xls - This is the data set from edx course with all lab exercises completed.
 
